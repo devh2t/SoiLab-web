@@ -1,0 +1,61 @@
+body {
+  background-image: url(/background.svg);
+  background-size: 100%;
+  background-attachment: fixed
+}
+
+.oleo,
+.pixsoil {
+  font-family: Oleo Script, cursive
+}
+
+.pixsoil {
+  font-size: 5rem;
+  color: #815115;
+  margin: 5rem auto 0
+}
+.soilab {
+  font-size: 5rem;
+  width: 242px;
+  height: 242px;
+}
+
+.mobile {
+  position: relative;
+  display: inline-block;
+  width: 242px;
+  margin-top: calc((100vh - 508px) / 2)
+}
+
+@media screen and (max-width:877px) {
+  .mobile {
+    margin-top: 4rem
+  }
+}
+
+.mobile video {
+  width: 220px;
+  position: absolute;
+  top: 9px;
+  left: 9px
+}
+
+.mobile .frame {
+  width: 242px;
+  height: 508px;
+  position: absolute;
+  top: 0;
+  left: 0
+}
+
+.results td {
+  max-width: 10ch;
+  word-wrap: break-word
+}
+
+.suitable-plant-image {
+  border-radius: .7rem;
+  width: 100%;
+  box-shadow: 0 8px -4px 24px rgba(212, 248, 215, .813);
+  float: left
+}
