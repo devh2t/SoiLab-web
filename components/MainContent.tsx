@@ -36,14 +36,14 @@ export default function MainContent() {
                 </Link>
             </Group>
 
-            <Group mt='6rem' spacing={'md'} position={match ? 'center' : 'left'}>
+            {/* <Group mt='6rem' spacing={'md'} position={match ? 'center' : 'left'}>
                 <Link href={'/about'} passHref>
                     <Text style={{ cursor: 'pointer' }}>What is SoiLab AI?</Text>
                 </Link>
-                {/* <Link href={'/researchers'} passHref>
+                <Link href={'/researchers'} passHref>
                     <Text style={{ cursor: 'pointer' }}>The Researchers</Text>
-                </Link> */}
-            </Group>
+                </Link>
+            </Group> */}
         </Box>
     );
 }
