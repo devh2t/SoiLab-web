@@ -1,5 +1,5 @@
 #  What SoiLab is all about?
-SoiLab is the product of our Thesis entitled Image Processing for Soil Type Classification, presented to the faculty of the College of Information Technology and Computer Studies in University of Muntinlupa - Muntinlupa City, Philippines.
+SoiLab is the product of our Thesis entitled Image Processing for Soil Type Classification
 
 The overall objective of the study is to develop a system that can classify the type of a soil and identify its properties that will help planters in making an accurate decision with regards to planting. Now, our objective came into life!
 
@@ -13,8 +13,6 @@ Soil analysis is the number one process in urban gardening. One of the major pro
 - Lack of user-specific information on what particular amendment that should be added on the soil to enhance its quality based on the classification results.
 - Develop methodology that works well on identifying the type of soil based on its physical characteristics.
 
-## The Significance
-The research uses image processing techniques to assist gardeners in classifying soil types and identifying which plants or crops are suitable for them. The discovery of this sort of soil will aid gardeners in expanding their knowledge to enhance their ability to choose the appropriate plants or crops for it.
 
 For gardeners, this study will help the gardeners/farmers to further expand their knowledge on the proper approach to the soil and improve their decision making with regards to handling their plants.
 
